@@ -30,7 +30,7 @@ This project implements a **scientific fact-checking system** that uses a Retrie
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Embeddings:** [`mixedbread-ai/mxbai-embed-large-v1`](https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1)
 - **Vector DB:** [ChromaDB](https://www.trychroma.com/)
