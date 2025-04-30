@@ -17,7 +17,7 @@ This project implements a **scientific fact-checking system** that uses a Retrie
 
 ---
 
-## 🧩 Scripts Overview
+## Scripts Overview
 
 | Script | Description |
 |--------|-------------|
