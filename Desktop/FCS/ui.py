@@ -1,5 +1,3 @@
-#GitHub token to commit from terminal > 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
-
 import streamlit as st
 import chromadb
 from ollama import chat
