@@ -1,5 +1,3 @@
-# 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 // token mxbai
-
 import os
 import torch
 from transformers import AutoModel, AutoTokenizer
