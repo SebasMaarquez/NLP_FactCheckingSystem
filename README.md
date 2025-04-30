@@ -3,7 +3,7 @@ The repository of the final NLP project of Sebastián Márquez and David Gómez
 
 # Scientific Fact Checker (Biomedical RAG System)
 
-This project implements a **scientific fact-checking system** that uses a Retrieval-Augmented Generation (RAG) pipeline to verify biomedical claims using evidence from **PubMed abstracts**. It integrates **embeddings**, a **vector database (ChromaDB)**, and a **local LLM (LLaMA 3 via Ollama)**, presented through a **Streamlit UI**.
+This project implements a **scientific fact-checking system** that uses a Retrieval-Augmented Generation (RAG) pipeline to verify biomedical claims using evidence from 3500 **PubMed abstracts**. It integrates **embeddings**, a **vector database (ChromaDB)**, and a **local LLM (LLaMA 3 via Ollama)**, presented through a **Streamlit UI**.
 
 ---
 
