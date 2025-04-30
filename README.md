@@ -26,6 +26,7 @@ This project implements a **scientific fact-checking system** that uses a Retrie
 | `ui.py` | The main Streamlit interface. Lets users input a claim, retrieves evidence, builds prompts, and displays LLM verdicts and sources. |
 | `recall_at_k.py` | Evaluates the document retrieval system using **Recall@K**. Compares retrieved documents with ground-truth reference snippets. |
 | `evaluation_set.json` | A small handcrafted evaluation dataset of claims with corresponding relevant sentences from PubMed. Used for evaluation metrics. |
+| `build_eval_set.py` | This script facilitates the construction of the evaluation dataset used to compute Recall@K. |
 
 ---
 
